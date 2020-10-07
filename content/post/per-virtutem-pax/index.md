@@ -17,10 +17,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-image:
-  placement: 2
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+image: 
+  placement: 1
+#  caption: 'Image credit: [**MARINES**](https://www.marines.mil/Photos/igphoto/2002176171/?igcategory=Joint%20Operations)'
+  caption: 'Image credit: [**MARINES**](https://www.marines.mil/Photos/igphoto/2002139543/)'
+  focal_point: "smart"
   preview_only: false
 
 # Projects (optional).
@@ -33,5 +34,5 @@ projects: []
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
 
-df
+![Example image](/190824-M-JI182-0183.jpg)
 
