@@ -1,25 +1,24 @@
 ---
-title: "An example conference paper"
+title: "Corporate Debt Standardization and The Rise of Electronic Bond Trading"
 authors:
 - admin
-- Robert Ford
-date: "2013-07-01T00:00:00Z"
+date: "2020-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["7"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+# publication: In *Source Themes Conference*
+# publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: I study the impact of standardization on secondary corporate bond markets as the industry adopts electronic trading systems. I show that covenants can reduce debt rollover costs by mitigating agency problems. However, when trading in the more liquid electronic markets is restricted to standardized securities, firms must weigh the benefits of offering credit protection against e-trading’s lower transaction costs. I investigate firms’ choices of leverage and debt type when creditors are not fully informed about their risk exposures nor their hedging policies. In such cases, riskier firms can have an incentive to misrepresent their types to benefit shareholders, which raises debt rollover costs for safer firms. Safer firms react by adjusting their leverage, either to signal their credit-worthiness and force separation, or to reflect the less favorable funding conditions in a pooling equilibrium. Alternatively, safe companies can signal their type by issuing bonds with debt protective covenants, leading to a separating equilibrium with a hybrid market structure, where safe bonds trade over-the-counter. I show that this is the case when the liquidity differential between over-the-counter and electronic markets is sufficiently low and risky types optimally choose not to hedge their exposure to their idiosyncratic risk in equilibrium.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -33,8 +32,8 @@ links:
   url: http://example.org
 url_pdf: https://github.com/abcarvalho/academic-website/tree/master/content/publication/paper/artur_thesis.pdf
 # http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
+url_code: 'https://github.com/abcarvalho/bond-model'
+url_data: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''

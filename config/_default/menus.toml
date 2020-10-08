@@ -9,13 +9,13 @@
   weight = 10
 
 [[main]]
-  name = "Paper"
-  url = "files/abcarvalho_paper.pdf"
+  name = "Research"
+  url = "#research"
   weight = 20
 
 [[main]]
-  name = "Online Appendix"
-  url = "files/abcarvalho_online_app.pdf"
+  name = "Experience"
+  url = "#experience"
   weight = 30
 
 # [[main]]
