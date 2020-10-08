@@ -28,7 +28,7 @@ tags:
 - Source Themes
 featured: true
 
-url_pdf: https://github.com/abcarvalho/academic-website/tree/master/content/publication/paper/artur_thesis.pdf
+url_pdf: 'files/artur_thesis.pdf' 
 # http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/abcarvalho/bond-model'
 # url_dataset: '#'
@@ -37,8 +37,12 @@ url_code: 'https://github.com/abcarvalho/bond-model'
 # url_source: '#'
 # url_video: '#'
 links: 
+- name: Online Appendix
+  url: 'files/abcarvalho_online_app.pdf' 
 - name: Slides
-  url: 'https://github.com/abcarvalho/academic-website/tree/master/content/publication/paper/abcarvalho_slides.pdf' 
+  url: 'files/abcarvalho_slides.pdf' 
+- name: Data Analysis
+  url: 'files/artur_data.pdf'
 - name: Data Analysis (wiki)
   url: 'https://github.com/abcarvalho/bond-data/wiki'
 - name: Data Analysis (repo)
