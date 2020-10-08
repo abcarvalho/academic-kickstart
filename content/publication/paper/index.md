@@ -21,24 +21,28 @@ publication_types: ["7"]
 abstract: I study the impact of standardization on secondary corporate bond markets as the industry adopts electronic trading systems. I show that covenants can reduce debt rollover costs by mitigating agency problems. However, when trading in the more liquid electronic markets is restricted to standardized securities, firms must weigh the benefits of offering credit protection against e-trading’s lower transaction costs. I investigate firms’ choices of leverage and debt type when creditors are not fully informed about their risk exposures nor their hedging policies. In such cases, riskier firms can have an incentive to misrepresent their types to benefit shareholders, which raises debt rollover costs for safer firms. Safer firms react by adjusting their leverage, either to signal their credit-worthiness and force separation, or to reflect the less favorable funding conditions in a pooling equilibrium. Alternatively, safe companies can signal their type by issuing bonds with debt protective covenants, leading to a separating equilibrium with a hybrid market structure, where safe bonds trade over-the-counter. I show that this is the case when the liquidity differential between over-the-counter and electronic markets is sufficiently low and risky types optimally choose not to hedge their exposure to their idiosyncratic risk in equilibrium.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: I develop a structural credit risk model where covenants arise endogenously as a means to signal a firm's credit-worthiness. I show that, when trading in the more liquid electronic markets is restricted to standardized securities, firms must weigh the benefits of offering credit protection against e-trading’s lower transaction costs. 
+
 
 tags:
 - Source Themes
 featured: true
 
-links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: https://github.com/abcarvalho/academic-website/tree/master/content/publication/paper/artur_thesis.pdf
 # http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/abcarvalho/bond-model'
-url_data: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_source: '#'
+# url_video: '#'
+links: 
+- name: Slides
+  url: 'https://github.com/abcarvalho/academic-website/tree/master/content/publication/paper/abcarvalho_slides.pdf' 
+- name: Data Analysis (wiki)
+  url: 'https://github.com/abcarvalho/bond-data/wiki'
+- name: Data Analysis (repo)
+  url: 'https://github.com/abcarvalho/bond-data'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -60,16 +64,16 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: "" 
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+<!-- {{% alert note %}} -->
+<!-- Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. -->
+<!-- {{% /alert %}} -->
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+<!-- {{% alert note %}} -->
+<!-- Click the *Slides* button above to demo Academic's Markdown slides feature. -->
+<!-- {{% /alert %}} -->
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+<!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
 

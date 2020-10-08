@@ -18,7 +18,7 @@ organizations:
   url: "https://economics.uchicago.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include financial markets' microstructure, liquidity, and asset pricing in general.
 
 interests:
 - Financial Markets' Microstructure

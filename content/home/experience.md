@@ -78,7 +78,7 @@ Investigated the impact of heightened capital requirements on banks’ activitie
   
    - _Time Series Econometrics_ 
    - _Microeconomics_
-   - _FINISH_
+   - _Economic Analysis_
  """
 
 [[experience]]
