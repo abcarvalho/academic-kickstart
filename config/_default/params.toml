@@ -75,10 +75,10 @@ privacy_pack = false
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
-edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir = "", repo_branch = "master", editable = {docs = true, page = false, post = false}}
+edit_page = {repo_url = "", content_dir = "", repo_branch = "main", editable = {page = false, post = false, book = false}}
 
 # Show related content at the bottom of pages?
-show_related = {docs = true, page = false, post = true, project = true, publication = true, talk = true}
+show_related = {book = true, page = false, post = true, project = true, publication = true, talk = true}
 
 ############################
 ## Contact details
@@ -148,7 +148,7 @@ address_format = "en-us"
 ############################
 
 # Main menu alignment (l = left, c = center, r = right) and logo options.
-main_menu = {align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
+main_menu = {enable = true, align = "l", show_logo = true, highlight_active_link = true, show_language = false, show_day_night = true, show_search = true}
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
@@ -163,9 +163,6 @@ sharing = true
 # Show a copyright license from creativecommons.org in the site footer?
 # Page specific copyright licenses are also possible by adding this option to a page's front matter.
 copyright_license = {enable = false, allow_derivatives = false, share_alike = true, allow_commercial = false, notice = "This work is licensed under {license}"}
-
-# Link authors to their profile page? (true/false)
-link_authors = true
 
 # Abstract length (characters) in the Compact and Portfolio Card list views. Also, see `summaryLength` in `config.toml`.
 abstract_length = 135
@@ -273,6 +270,7 @@ plugins_js  = []
 [marketing]
   google_analytics = ""
   google_tag_manager = ""
+  google_site_verification = ""
 
 ############################
 ## Content Management System
@@ -285,4 +283,4 @@ plugins_js  = []
 ## Icon Pack Extensions
 ############################
 [icon.pack]
-  ai = false  # Academicons icon pack https://jpswalsh.github.io/academicons/
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
