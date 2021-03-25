@@ -5,7 +5,7 @@
 echo "Copying resume file..."
 fname='abcarvalho_resume.pdf'
 source_path="$ZEN_REPOS_DIR/resume"
-target_path="$ZEN_REPOS_DIR/academic-website/static/media"
+target_path="$ZEN_REPOS_DIR/academic-website/static/uploads"
 
 cp -i -f "$source_path/$fname" "$target_path/$fname"
 echo " "

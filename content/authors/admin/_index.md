@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in economics at the University of Chicago. 
+I am a PhD candidate in economics at the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see [below](#defense).
