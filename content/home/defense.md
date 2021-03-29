@@ -51,9 +51,7 @@ subtitle = ""
  css_class = ""
 +++
 
- <!-- {{< figure src="dod.jpg" caption="Smoehtogn  \\ Source: [US Dept. of Defense](https://www.defense.gov/observe/photo-gallery/igphoto/2002558279/)" >}} -->
-
-
+<!-- {{< figure src="nasa.jpg" caption="Gulf of Mexico, United States  \\ Source: [NASA](https://unsplash.com/photos/Q1p7bh3SHj8)" >}} -->
 
 ## Interests
 I am also interested in topics at the intersection of Economics and Defense. In particular, in how the topography of global economic networks can be leveraged to strengthen military alliances, and increase countries' informational advantage and coercive power vis-à-vis their adversaries.
@@ -67,4 +65,4 @@ around collaborative intelligence, like scenario-planning simulations.
 The final project was a war-gaming simulation of the U.S. intervention
 in Yemen.
 
- <!-- Image: [Lightning Handshake](https://www.defense.gov/observe/photo-gallery/igphoto/2002593532/); source: [U.S. Dept of Defense](https://www.defense.gov/) -->
+Image: [Gulf of Mexico, United States](https://unsplash.com/photos/Q1p7bh3SHj8); source: [NASA](https://unsplash.com/@nasa)
