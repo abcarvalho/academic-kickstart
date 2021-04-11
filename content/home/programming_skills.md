@@ -24,11 +24,9 @@ subtitle = ""
   name = "Python"
 
 [[feature]]
-  icon = "matlab-logo"
-  icon_pack = "custom"
-  # name = "Matlab"
-  image_size = "contain"
-
+  icon = "git-alt"
+  icon_pack = "fab"
+  name = "Git"
 
 +++
 

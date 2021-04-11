@@ -12,8 +12,17 @@ echo " "
 
 # Job-Market Paper
 echo "Copying thesis file..."
-fname="abcarvalho_thesis.pdf"
-source_path="$ZEN_REPOS_DIR/dissertation/MasterRM"
+fname="abcarvalho_paper.pdf"
+source_path="$ZEN_REPOS_DIR/dissertation/paper"
+# target_path="$ZEN_REPOS_DIR/academic-website/static/paper"
+
+cp -i -f "$source_path/$fname" "$target_path/$fname"
+echo " "
+
+# Job-Market Paper
+echo "Copying infinite-horizon model file..."
+fname="abcarvalho_ih_model.pdf"
+source_path="$ZEN_REPOS_DIR/dissertation/paper"
 # target_path="$ZEN_REPOS_DIR/academic-website/static/paper"
 
 cp -i -f "$source_path/$fname" "$target_path/$fname"
@@ -28,14 +37,14 @@ source_path="$ZEN_REPOS_DIR/dissertation/MasterRM"
 cp -i -f "$source_path/$fname" "$target_path/$fname"
 echo " "
 
-# Online Appendix
-echo "Copying Online Appendix file..."
-fname="abcarvalho_online_app.pdf"
-source_path="$ZEN_REPOS_DIR/dissertation/MasterRM"
-# target_path="$ZEN_REPOS_DIR/academic-website/content/publication/paper"
+# # Online Appendix
+# echo "Copying Online Appendix file..."
+# fname="abcarvalho_online_app.pdf"
+# source_path="$ZEN_REPOS_DIR/dissertation/MasterRM"
+# # target_path="$ZEN_REPOS_DIR/academic-website/content/publication/paper"
 
-cp -i -f "$source_path/$fname" "$target_path/$fname"
-echo " "
+# cp -i -f "$source_path/$fname" "$target_path/$fname"
+# echo " "
 
 # Slides
 echo "Copying Slides..."

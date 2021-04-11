@@ -27,7 +27,7 @@ tags:
 - Source Themes
 featured: true
 
-url_pdf: 'uploads/abcarvalho_thesis.pdf' 
+url_pdf: 'uploads/abcarvalho_paper.pdf' 
 # http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: 'https://github.com/abcarvalho/bond-model'
 # url_dataset: '#'
@@ -36,8 +36,8 @@ url_code: 'https://github.com/abcarvalho/bond-model'
 # url_source: '#'
 # url_video: '#'
 links: 
-- name: Online Appendix
-  url: 'uploads/abcarvalho_online_app.pdf' 
+- name: Infinite Horizon Model
+  url: 'uploads/abcarvalho_ih_model.pdf' 
 - name: Slides
   url: 'uploads/abcarvalho_slides.pdf' 
 - name: Data Analysis
