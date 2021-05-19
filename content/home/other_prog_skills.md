@@ -1,27 +1,26 @@
-+++ 
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+---
+widget: "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless: true  # This file represents a page section.
+active: true  # Activate this widget? true/false
+weight: 40  # Order that this section will appear.
 
-title = "Other Programming Skills"
-subtitle = ""
+title: Other Programming Skills
+subtitle:
 
 
-[[feature]]
-  icon = "matlab-logo"
-  icon_pack = "custom"
-  name = "Matlab"
-  image_size = "contain"
-
-[[feature]]
-  icon = "latex_simpleicons"
-  icon_pack = "custom"
-  name = "LaTeX"
- 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
+feature:
+- icon: matlab-logo
+  icon_pack: custom
+  name: Matlab
+  image_size: contain
+- icon: latex_simpleicons
+  icon_pack: custom
+  name: LaTeX
+- icon: r-project
+  icon_pack: fab
+  name: R
+- icon: stata-logo
+  icon_pack: custom
 
 # [[feature]]
 #   icon = "microsoft"
@@ -35,9 +34,4 @@ subtitle = ""
 #   name = "Statistics"
 #   description = "100%"  
 
-[[feature]]
-  icon = "stata-logo"
-  icon_pack = "custom"
-
-
-+++
+---
