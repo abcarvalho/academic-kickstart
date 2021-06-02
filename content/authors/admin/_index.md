@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include financial markets' microstructure, liquidity, and asset pricing in general.
 
 interests:
-- Financial Markets' Microstructure
-- Derivative Markets' Reforms
-- Liquidity Risk
-- Asset Pricing
+- <a href="https://www.chicagobooth.edu/faculty/directory/v/pietro-veronesi">Prof. Pietro Veronesi</a> (chair)
+- <a href="https://alvarezfernando.com/">Prof. Fernando Alvarez</a>
+- <a href="https://voices.uchicago.edu/yueranma/">Prof. Yueran Ma</a>
+
 
 education:
   courses:
@@ -72,6 +72,25 @@ highlight_name: false
 user_groups:
 - Researchers
 - Visitors
+
+
+# {{<spoiler style="line-height:.8; font-size:0.9rem;" text="[Prof. Pietro Veronesi](https://www.chicagobooth.edu/faculty/directory/v/pietro-veronesi) (chair)">}}
+#   * <pietro.veronesi@chicagobooth.edu>
+# {{< /spoiler >}}
+# {{<spoiler style="line-height:.8; font-size:0.9rem;" text="[Prof. Fernando Alvarez](https://alvarezfernando.com/)">}}
+#   * <f-alvarez1@uchicago.edu>
+# {{< /spoiler >}}
+# {{<spoiler style="line-height:.8; font-size:0.9rem;" text="[Prof. Yueran Ma](https://voices.uchicago.edu/yueranma/)">}}
+#   * <yueran.ma@chicagobooth.edu>
+# {{< /spoiler >}}
 ---
 
-I am a PhD candidate in economics at the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see [below](#defense).
+<p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;">
+I am a PhD candidate in economics at the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see <a href="#defense">below</a>.</p>
+
+<h3 style="font-size:2rm;">Interests</h3>
+<p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;"> Financial Markets' Microstructure, Derivative Markets' Reforms, Liquidity Risk, Asset Pricing</p>
+
+
+
+
