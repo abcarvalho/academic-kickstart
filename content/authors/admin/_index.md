@@ -93,7 +93,7 @@ advanced:
 # <p style="width: 700px;line-height:1.4;font-size:0.9rem;text-align:justify;text-justify: inter-word;"> ... </p>
 ---
 
-I am a PhD in Economics from the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see <a href="#defense">below</a>.
+I am a PhD in Economics from the University of Chicago. My research interests in Economics and Finance include financial markets' microstructure, liquidity, and asset pricing in general. For my interests in topics of International Security, see [below](#defense).
 
 <h3 style="font-size:2rm;">Interests</h3>
  Financial Markets' Microstructure, Derivative Markets' Reforms, Liquidity Risk, Asset Pricing
