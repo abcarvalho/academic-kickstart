@@ -30,7 +30,19 @@ experience:
     location: New York
     date_start: '2017-05-08'
     date_end: '2017-08-08'
-    description: Participated in the development of an algorithmic corporate bond trading programme for the US market. Identified and processed relevant trading data used by the firm’s pricing algorithms.
+    description: >-
+
+            *  Participated in development of electronic corporate bond trading programme for US market;
+
+            * Produced reports documenting the firm's data sources and describing the identification and processing of relevant trading data and proprietary variables;
+
+            * Assisted the data engineering group validate their implementation in Java of the data science team's pricing algorithms written in Python.
+
+            * Wrote code to identify whether bonds belonged to a particular IG corporate bond index;
+
+            * Deployed simple Machine Learning classi􏰃cation algorithms to impute missing data.
+
+# Participated in the development of an algorithmic corporate bond trading programme for the US market. Identified and processed relevant trading data used by the firm’s pricing algorithms.
 
 design:
   columns: '2'

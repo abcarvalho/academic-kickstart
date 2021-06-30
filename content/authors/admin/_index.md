@@ -48,7 +48,7 @@ social:
   link: 'mailto:abcarvalho@uchicago.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/artur-carvalho-a2b45387/
+  link: https://www.linkedin.com/in/abcarvalho-econ/
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

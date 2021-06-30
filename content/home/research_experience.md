@@ -28,7 +28,12 @@ experience:
     location: ""
     date_start: "2016-02-01"
     date_end: "2016-06-30"
-    description: Investigated the impact of heightened capital requirements on banks’ activities, such as asset growth, residential mortgage credit concession and securitization.
+    description: >-
+            * Leveraged data on regulatory reports to assess the impact of heightened capital requirements on bank activity;
+
+            * Studied how de novo banks' asset growth, residential mortgage credit concession and secu- ritization change in response to loosened leverage ratio requirements.
+
+    # Investigated the impact of heightened capital requirements on banks’ activities, such as asset growth, residential mortgage credit concession and securitization.
 
 design:
   columns: '2'

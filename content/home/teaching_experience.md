@@ -6,7 +6,7 @@ active: true  # Activate this widget? true/false
 weight: 32  # Order that this section will appear.
 
 title:  " "
-subtitle: <h4>Teaching and Other Experience</h4>
+subtitle: <h4>Teaching Experience</h4> Conducted in-person and online sessions covering course material, programming skills, assignments and exam solutions. Wrote teaching notes, solutions to problem sets and exams.</h10>
 
 advanced:
   # Custom CSS.
@@ -76,13 +76,6 @@ experience:
     date_start: "2011-09-01"
     date_end: "2015-12-31"
     description: "MA Course: _Macroeconomics II_"
-  - title: Intern
-    company: Banco BBM (former Bank of Bahia)
-    company_url: "https://www.bocombbm.com.br/en/"
-    location: ""
-    date_start: "2006-05-01"
-    date_end: "2006-12-31"
-    description: Assessed credit worthiness of companies in the large corporate and middle market segments to support credit operations. Processed data from financial statements, companies’ file information, and economic sector indicators. Prepared presentations for the bank’s credit committee.
 
 design:
   columns: '2'
