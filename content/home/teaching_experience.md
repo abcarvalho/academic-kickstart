@@ -73,8 +73,8 @@ experience:
     company: Getulio Vargas Foundation
     company_url: "https://epge.fgv.br/en/"
     location: ""
-    date_start: "2011-09-01"
-    date_end: "2015-12-31"
+    date_start: "2009-08-31"
+    date_end: "2009-06-01"
     description: "MA Course: _Macroeconomics II_"
 
 design:

@@ -40,7 +40,7 @@ experience:
 
             * Wrote code to identify whether bonds belonged to a particular IG corporate bond index;
 
-            * Deployed simple Machine Learning classi􏰃cation algorithms to impute missing data.
+            * Deployed simple Machine Learning classification algorithms to impute missing data.
 
 # Participated in the development of an algorithmic corporate bond trading programme for the US market. Identified and processed relevant trading data used by the firm’s pricing algorithms.
 
